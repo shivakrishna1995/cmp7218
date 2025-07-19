@@ -42,7 +42,7 @@ export default function Instructions() {
                     </h2>
                 </div>
                 <p className={config?.displayMode === "dark" ? "text-white" : "text-black"}>
-                    Every Saturday, Omar visited the old library in town. The smell of books and quiet atmosphere helped him focus. One day, he found a handwritten note inside a book. It was a quote about adventure and courage, and it made his day.
+                    {config.paragraph}
                 </p>
                 <button
                     className="bg-blue-500 hover:bg-blue-700 disabled:bg-blue-300 disabled:cursor-not-allowed text-white font-bold py-2 px-4 rounded h-[45px] cursor-pointer flex justify-center items-center"
