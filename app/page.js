@@ -1,16 +1,11 @@
 "use client";
 
-import Link from "next/link";
 import { useRouter } from "next/navigation";
 
 export default function App() {
   const router = useRouter();
 
   const onSubmit = () => {
-    const user_id = localStorage.getItem("study_1_user_id");
-    if (user_id) {
-      return alert("You have already completed the study.");
-    }
     localStorage.setItem("study_1_user_id", Date.now());
     return router.push("/condition/1/instructions");
   };

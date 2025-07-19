@@ -26,7 +26,7 @@ export default function Instructions() {
                 displayMode: config?.displayMode,
                 lighting: config?.lighting,
             })
-            return router.replace(`/condition/${conditionId + 1}/questions`);
+            return router.replace(`/condition/${conditionId}/questions`);
         }
         catch (e) {
             alert("Error submitting results");
