@@ -11,7 +11,7 @@ export default function App() {
     if (user_id) {
       return alert("You have already completed the study.");
     }
-    localStorage.setItem("user_id", Date.now());
+    localStorage.setItem("study_1_user_id", Date.now());
     return router.push("/condition/1/instructions");
   };
 
