@@ -7,7 +7,7 @@ export default function App() {
   const router = useRouter();
 
   const onSubmit = () => {
-    const user_id = localStorage.getItem("user_id");
+    const user_id = localStorage.getItem("study_1_user_id");
     if (user_id) {
       return alert("You have already completed the study.");
     }
