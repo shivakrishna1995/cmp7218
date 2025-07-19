@@ -6,7 +6,7 @@ export default function App() {
   const router = useRouter();
 
   const onSubmit = () => {
-    localStorage.setItem("study_1_user_id", Date.now());
+    localStorage.setItem("user_id", Date.now());
     return router.push("/condition/1/instructions");
   };
 
