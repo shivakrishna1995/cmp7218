@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "displayMode": "dark",
+    "lighting": "bright",
+    "title": "The Lost Umbrella",
+    "paragraph": "On a rainy morning, Maya rushed to catch her bus. She grabbed her things but forgot her umbrella. When she arrived at work soaked, her colleague offered her a dry jacket and some tea. Later that day, the sun came out, and she laughed about her forgetfulness. She decided to keep a spare umbrella at work just in case.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Why did Maya get soaked?",
+        "options": [
+          "She missed the bus",
+          "She forgot her umbrella",
+          "She fell into a puddle",
+          "Her jacket was torn"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 2,
+        "question": "What did her colleague offer her?",
+        "options": [
+          "An umbrella and coffee",
+          "A dry jacket and tea",
+          "A towel and a blanket",
+          "A raincoat and juice"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 3,
+        "question": "What was Maya’s reaction later in the day?",
+        "options": [
+          "Angry",
+          "Embarrassed",
+          "Upset",
+          "Amused"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 4,
+        "question": "Eye Strain Rating (7-point Likert scale)",
+        "description": "How comfortable were your eyes while reading?",
+        "options": [
+          "1 – Very uncomfortable",
+          "2 – Uncomfortable",
+          "3 – Slightly uncomfortable",
+          "4 – Neutral",
+          "5 – Slightly comfortable",
+          "6 – Comfortable",
+          "7 – Very comfortable"
+        ],
+        "answer": -1
+      },
+      {
+        "id": 5,
+        "question": "Readability Rating (7-point Likert scale)",
+        "description": "How easy was it to read the text?",
+        "options": [
+          "1 – Very difficult",
+          "2 – Difficult",
+          "3 – Slightly difficult",
+          "4 – Neutral",
+          "5 – Slightly easy",
+          "6 – Easy",
+          "7 – Very easy"
+        ],
+        "answer": -1
+      }
+    ],
+    "instructions": [
+      "Sit comfortably in the same place as before.",
+      "Make sure the room is bright (turn on lights or sit near daylight).",
+      "Do not adjust screen brightness or mode – we’ve set it for you.",
+      "Keep your focus on the reading — no multitasking!"
+    ]
+  },
+  {
+    "id": 2,
+    "displayMode": "light",
+    "lighting": "bright",
+    "title": "The Secret Recipe",
+    "paragraph": "Leo had always wanted to bake the perfect chocolate cake. After weeks of testing, he finally discovered that adding a pinch of salt made the flavors richer. His friends couldn’t believe how good it was and kept asking for the recipe—he just smiled and said it was a secret. He wrote the final recipe down and locked it away.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What did Leo want to do?",
+        "options": [
+          "Learn how to cook pasta",
+          "Bake a perfect cake",
+          "Open a bakery",
+          "Write a recipe book"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 2,
+        "question": "What improved the flavor of the cake?",
+        "options": [
+          "More sugar",
+          "Less flour",
+          "A pinch of salt",
+          "Extra cocoa"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 3,
+        "question": "What did Leo tell his friends when asked for the recipe?",
+        "options": [
+          "He would text it later",
+          "He sold it to a bakery",
+          "It was a secret",
+          "He forgot the recipe"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 4,
+        "question": "Eye Strain Rating (7-point Likert scale)",
+        "description": "How comfortable were your eyes while reading?",
+        "options": [
+          "1 – Very uncomfortable",
+          "2 – Uncomfortable",
+          "3 – Slightly uncomfortable",
+          "4 – Neutral",
+          "5 – Slightly comfortable",
+          "6 – Comfortable",
+          "7 – Very comfortable"
+        ],
+        "answer": -1
+      },
+      {
+        "id": 5,
+        "question": "Readability Rating (7-point Likert scale)",
+        "description": "How easy was it to read the text?",
+        "options": [
+          "1 – Very difficult",
+          "2 – Difficult",
+          "3 – Slightly difficult",
+          "4 – Neutral",
+          "5 – Slightly easy",
+          "6 – Easy",
+          "7 – Very easy"
+        ],
+        "answer": -1
+      }
+    ],
+    "instructions": [
+      "Sit comfortably in the same place as before.",
+      "Make sure the room is bright (turn on lights or sit near daylight).",
+      "Do not adjust screen brightness or mode – we’ve set it for you.",
+      "Keep your focus on the reading — no multitasking!"
+    ]
+  },
+  {
+    "id": 3,
+    "displayMode": "dark",
+    "lighting": "dim",
+    "title": "The Astronaut’s View",
+    "paragraph": "Orbiting the Earth, astronaut Asha looked out of the window and saw the curve of the planet beneath her. The sunrise stretched across the horizon in shades of orange and pink. Floating in zero gravity, she felt both small and inspired by the beauty of the world. She captured the view with her camera to remember the moment.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What did Asha see from the window?",
+        "options": [
+          "The Moon",
+          "The Earth",
+          "Mars",
+          "The Space Station"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 2,
+        "question": "What time of day was described?",
+        "options": [
+          "Sunrise",
+          "Noon",
+          "Sunset",
+          "Midnight"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 3,
+        "question": "How did Asha feel?",
+        "options": [
+          "Nervous",
+          "Lonely",
+          "Inspired",
+          "Scared"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 4,
+        "question": "Eye Strain Rating (7-point Likert scale)",
+        "description": "How comfortable were your eyes while reading?",
+        "options": [
+          "1 – Very uncomfortable",
+          "2 – Uncomfortable",
+          "3 – Slightly uncomfortable",
+          "4 – Neutral",
+          "5 – Slightly comfortable",
+          "6 – Comfortable",
+          "7 – Very comfortable"
+        ],
+        "answer": -1
+      },
+      {
+        "id": 5,
+        "question": "Readability Rating (7-point Likert scale)",
+        "description": "How easy was it to read the text?",
+        "options": [
+          "1 – Very difficult",
+          "2 – Difficult",
+          "3 – Slightly difficult",
+          "4 – Neutral",
+          "5 – Slightly easy",
+          "6 – Easy",
+          "7 – Very easy"
+        ],
+        "answer": -1
+      }
+    ],
+    "instructions": [
+      "Sit comfortably in the same place as before.",
+      "Make sure the room is dim (turn off lights or move to a darker area).",
+      "Do not adjust screen brightness or mode – we’ve set it for you.",
+      "Keep your focus on the reading — no multitasking!"
+    ]
+  },
+  {
+    "id": 4,
+    "displayMode": "light",
+    "lighting": "dim",
+    "title": "The Quiet Library",
+    "paragraph": "Every Saturday, Omar visited the old library in town. The smell of books and quiet atmosphere helped him focus. One day, he found a handwritten note inside a book. It was a quote about adventure and courage, and it made his day. He carefully placed the note back for someone else to discover.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "When did Omar visit the library?",
+        "options": [
+          "Every Monday",
+          "Every Saturday",
+          "Once a year",
+          "Only during holidays"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 2,
+        "question": "What did he find in the book?",
+        "options": [
+          "A bookmark",
+          "A love letter",
+          "A quote",
+          "A receipt"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 3,
+        "question": "How did the note affect him?",
+        "options": [
+          "It scared him",
+          "It made him confused",
+          "It made his day",
+          "He ignored it"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 4,
+        "question": "Eye Strain Rating (7-point Likert scale)",
+        "description": "How comfortable were your eyes while reading?",
+        "options": [
+          "1 – Very uncomfortable",
+          "2 – Uncomfortable",
+          "3 – Slightly uncomfortable",
+          "4 – Neutral",
+          "5 – Slightly comfortable",
+          "6 – Comfortable",
+          "7 – Very comfortable"
+        ],
+        "answer": -1
+      },
+      {
+        "id": 5,
+        "question": "Readability Rating (7-point Likert scale)",
+        "description": "How easy was it to read the text?",
+        "options": [
+          "1 – Very difficult",
+          "2 – Difficult",
+          "3 – Slightly difficult",
+          "4 – Neutral",
+          "5 – Slightly easy",
+          "6 – Easy",
+          "7 – Very easy"
+        ],
+        "answer": -1
+      }
+    ],
+    "instructions": [
+      "Sit comfortably in the same place as before.",
+      "Make sure the room is dim (turn off lights or move to a darker area).",
+      "Do not adjust screen brightness or mode – we’ve set it for you.",
+      "Keep your focus on the reading — no multitasking!"
+    ]
+  }
+]
