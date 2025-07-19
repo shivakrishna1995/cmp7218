@@ -31,8 +31,8 @@ export default function App() {
             🔍 What’s being studied?
           </h4>
           <ul className="list-disc pl-5">
-            <li>How light mode vs. dark mode impacts reading.</li>
-            <li>How bright vs. dim room lighting changes the experience.</li>
+            <li>How light mode vs dark mode impacts reading.</li>
+            <li>How bright vs dim room lighting changes the experience.</li>
             <li>How these factors affect reading comprehension and eye strain.</li>
           </ul>
         </div>
