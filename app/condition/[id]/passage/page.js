@@ -38,7 +38,7 @@ export default function Instructions() {
             <div className={`w-full md:w-[450px] md:max-w-[450px] ${config?.displayMode === "dark" ? "bg-black" : "bg-white"} p-5 md:rounded-2xl flex flex-col gap-10 py-10`}>
                 <div className="flex flex-col gap-5">
                     <h2 className={`text-2xl font-medium text-center ${config?.displayMode === "dark" ? "text-white" : "text-black"}`}>
-                        📖 Reading Passage: "The Quiet Library"
+                        📖 Reading Passage
                     </h2>
                 </div>
                 <p className={config?.displayMode === "dark" ? "text-white" : "text-black"}>
